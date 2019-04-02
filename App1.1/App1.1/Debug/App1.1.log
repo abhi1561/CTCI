@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  App1.1.cpp
+  Generating Code...
+c:\users\akvarde\documents\visual studio 2015\projects\ctci\app1.1\app1.1\app1.1.cpp(35): warning C4715: 'CharsInStringBoolArray': not all control paths return a value
+  App1.1.vcxproj -> C:\Users\akvarde\Documents\Visual Studio 2015\Projects\CTCI\App1.1\Debug\App1.1.exe
+  App1.1.vcxproj -> C:\Users\akvarde\Documents\Visual Studio 2015\Projects\CTCI\App1.1\Debug\App1.1.pdb (Full PDB)
