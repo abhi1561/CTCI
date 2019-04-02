@@ -1,0 +1,9 @@
+﻿  App1.2.cpp
+App1.2.cpp(14): warning C4018: '<': signed/unsigned mismatch
+App1.2.cpp(18): warning C4018: '<': signed/unsigned mismatch
+  stdafx.cpp
+  Generating code
+  All 86 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  App1.2.vcxproj -> C:\Users\akvarde\Documents\Visual Studio 2015\Projects\CTCI\App1.2\App1.2\Release\App1.2.exe
+  App1.2.vcxproj -> C:\Users\akvarde\Documents\Visual Studio 2015\Projects\CTCI\App1.2\App1.2\Release\App1.2.pdb (Full PDB)

@@ -1,0 +1,5 @@
+﻿  App1.2.cpp
+c:\users\akvarde\documents\visual studio 2015\projects\ctci\app1.2\app1.2\app1.2\app1.2.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\akvarde\documents\visual studio 2015\projects\ctci\app1.2\app1.2\app1.2\app1.2.cpp(18): warning C4018: '<': signed/unsigned mismatch
+  App1.2.vcxproj -> C:\Users\akvarde\Documents\Visual Studio 2015\Projects\CTCI\App1.2\App1.2\Debug\App1.2.exe
+  App1.2.vcxproj -> C:\Users\akvarde\Documents\Visual Studio 2015\Projects\CTCI\App1.2\App1.2\Debug\App1.2.pdb (Full PDB)
