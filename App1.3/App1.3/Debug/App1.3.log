@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  App1.3.cpp
+c:\users\akvarde\documents\visual studio 2015\projects\ctci\app1.3\app1.3\app1.3.cpp(11): warning C4101: 'current': unreferenced local variable
+  Generating Code...
+  App1.3.vcxproj -> C:\Users\akvarde\Documents\Visual Studio 2015\Projects\CTCI\App1.3\Debug\App1.3.exe
+  App1.3.vcxproj -> C:\Users\akvarde\Documents\Visual Studio 2015\Projects\CTCI\App1.3\Debug\App1.3.pdb (Full PDB)
