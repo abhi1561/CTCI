@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  App1.5.cpp
+c:\users\akvarde\documents\visual studio 2015\projects\ctci\app1.5\app1.5\app1.5.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\akvarde\documents\visual studio 2015\projects\ctci\app1.5\app1.5\app1.5.cpp(38): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  App1.5.vcxproj -> C:\Users\akvarde\Documents\Visual Studio 2015\Projects\CTCI\App1.5\Debug\App1.5.exe
+  App1.5.vcxproj -> C:\Users\akvarde\Documents\Visual Studio 2015\Projects\CTCI\App1.5\Debug\App1.5.pdb (Full PDB)
