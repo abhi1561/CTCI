@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  App2.5.2.cpp
+c:\users\akvarde\documents\visual studio 2015\projects\ctci\app2.5.2\app2.5.2\app2.5.2.cpp(21): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'll *'
+  Generating Code...
+  App2.5.2.vcxproj -> C:\Users\akvarde\Documents\Visual Studio 2015\Projects\CTCI\App2.5.2\Debug\App2.5.2.exe
+  App2.5.2.vcxproj -> C:\Users\akvarde\Documents\Visual Studio 2015\Projects\CTCI\App2.5.2\Debug\App2.5.2.pdb (Full PDB)
